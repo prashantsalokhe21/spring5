@@ -20,6 +20,7 @@ public class Publisher {
 	private String publisherName;
 	private String publisherAddress;
 	
+	public Publisher() {}
 	
 	public Publisher(String publisherName, String publisherAddress) {
 		super();
